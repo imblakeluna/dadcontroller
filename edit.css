@@ -44,10 +44,10 @@
 
 .ds4 .bumpers {
     position: absolute;
-    width: 672px;
+    width: 674px;
     height: 23px;
-    left: 265px;
-    top: 131px;
+    left: 263px;
+    top: 125px;
 }
 
 .ds4 .bumper.pressed {
