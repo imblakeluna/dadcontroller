@@ -21,7 +21,7 @@
 
 .ds4 .trigger {
     width: 99px;
-    height: 100%;
+    height: 110%;
     background: url(https://imblakeluna.github.io/dadcontroller/trigger_pressed.png);
     opacity: 0;
 }
