@@ -7,7 +7,7 @@
         margin-top: -280px;*/
 }
 
-.ds4 .disconnected div{
+.ds4.disconnected {
 	background: url(https://imblakeluna.github.io/dadcontroller/disconnected.png);
 }
 
