@@ -1,6 +1,6 @@
 /*BEGIN PS4 Controller Styling*/
 .controller.ds4 {
-    background: url(https://tmpfiles.org/dl/323967/base3.png);
+    background: url(https://imblakeluna.github.io/dadcontroller/base.png);
     height: 700px;
     width: 1200px;
     /*    margin-left: -403px;
@@ -22,7 +22,7 @@
 .ds4 .trigger {
     width: 99px;
     height: 100%;
-    background: url(zyronCONTtrigger_pressed.png);
+    background: url(https://imblakeluna.github.io/dadcontroller/trigger_pressed.png);
     opacity: 0;
 }
 
@@ -38,7 +38,7 @@
 .ds4 .bumper {
     width: 200px;
     height: 45px;
-    background: url(zyronCONTbumper.png) no-repeat;
+    background: url(https://imblakeluna.github.io/dadcontroller/bumper.png) no-repeat;
     opacity: 0;
 }
 
@@ -94,7 +94,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .back, .ds4 .start {
-    background: url(zyronCONTselect.png);
+    background: url(https://imblakeluna.github.io/dadcontroller/select.png);
     width: 26px;
     height: 43px;
     opacity: 0;
@@ -140,7 +140,7 @@ background-position: 0 -70px;
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(zyronCONTbuttons.png);
+    background: url(https://imblakeluna.github.io/dadcontroller/buttons.png);
 }
 
 .ds4 .button.pressed {
@@ -181,7 +181,7 @@ background-position: 0 -70px;
 
 .ds4 .stick {
     position: absolute;
-    background: url(https://tmpfiles.org/dl/323953/sticks.png);
+    background: url(https://imblakeluna.github.io/dadcontroller/sticks.png);
     height: 94px;
     width: 94px;
 }
@@ -213,7 +213,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .face {
-    background: url(zyronCONTdpad.png);
+    background: url(https://imblakeluna.github.io/dadcontroller/dpad.png);
     position: absolute;
 }
 
@@ -263,7 +263,7 @@ background-position: 0 -70px;
 /*END PS4 Controller Styling*/
 
 .ds4.white .back, .ds4 .start {
-    background-image: url(zyronCONTstart.png);
+    background-image: url(https://imblakeluna.github.io/dadcontroller/start.png);
     width: 26px;
     height: 43px;
 }
