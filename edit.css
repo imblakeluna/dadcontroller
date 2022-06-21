@@ -1,22 +1,21 @@
 /*BEGIN PS4 Controller Styling*/
 .controller.ds4 {
-    background: url(https://imblakeluna.github.io/dadcontroller/base.png);
+    background: url(https://tmpfiles.org/dl/323967/base3.png);
     height: 700px;
     width: 1200px;
     /*    margin-left: -403px;
         margin-top: -280px;*/
 }
 
-.ds4.disconnected div {
-    display: none;
+.edit.disconnected {background: url(https://imblakeluna.github.io/dadcontroller/disconnected.png);
 }
 
 .ds4 .triggers {
     width: 598px;
     height: 90px;
     position: absolute;
-    left: 301.5px;
-    top: 36px;
+    left: 299px;
+    top: 20px;
 }
 
 .ds4 .trigger {
