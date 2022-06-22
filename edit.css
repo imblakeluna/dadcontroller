@@ -101,8 +101,8 @@ background-position: 0 -70px;
 
 .ds4 .back, .ds4 .start {
     background: url(https://imblakeluna.github.io/dadcontroller/select.png);
-    width: 26px;
-    height: 43px;
+    width: 27px;
+    height: 44px;
     opacity: 0;
 }
 .ds4 .start {
@@ -271,7 +271,7 @@ background-position: 0 -70px;
 .ds4.white .back, .ds4 .start {
     background-image: url(https://imblakeluna.github.io/dadcontroller/start.png);
     width: 26px;
-    height: 43px;
+    height: 44px;
 }
 
 /*END PS4 White Controller Styling*/
