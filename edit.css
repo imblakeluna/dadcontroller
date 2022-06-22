@@ -30,13 +30,15 @@
     float: left;
     position: absolute;
     left: -1.5px;
+    top: -1px;
 }
 
 .ds4 .trigger.right {
     float: right;
     background-position-x: 100px;
     position: absolute;
-    right: -6.5px;
+    right: -6px;
+    top: -1px;
 }
 
 .ds4 .bumper {
@@ -50,8 +52,8 @@
     position: absolute;
     width: 675px;
     height: 23px;
-    left: 263px;
-    top: 125px;
+    left: 262.5px;
+    top: 125.5px;
 }
 
 .ds4 .bumper.pressed {
